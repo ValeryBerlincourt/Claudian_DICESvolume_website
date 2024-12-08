@@ -5,4 +5,4 @@ Berlincourt, V. (2025), “Between epic and epideictic: direct speech in Claudia
 
 The graphs were programmed in Python using the Plotly library.
 
-Licence: CC BY-NC-ND.
+CC license: BY-NC-ND.
