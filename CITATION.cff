@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you cite this repository, please cite it as follows."
+authors:
+  - family-names: Berlincourt
+    given-names: Valéry
+    orcid: 0000-0001-5739-8839
+title: "Between epic and epideictic: direct speech in Claudian’s political poems through a digital lens (digital appendix)"
+license: CC BY-NC-ND
+version: 0.0.1
+date-released: 2024-12-08
+url: "https://github.com/ValeryBerlincourt/Claudian_DICESvolume"
