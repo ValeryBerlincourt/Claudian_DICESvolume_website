@@ -119,12 +119,12 @@ input:checked + .slide-container .carousel-controls label {
 
 input#img-1:checked ~ .carousel-dots label#img-dot-1,
 input#img-2:checked ~ .carousel-dots label#img-dot-2,
-input#img-3a:checked ~ .carousel-dots label#img-dot-3,
-input#img-3b:checked ~ .carousel-dots label#img-dot-3,
+input#img-3a:checked ~ .carousel-dots label#img-dot-3a,
+input#img-3b:checked ~ .carousel-dots label#img-dot-3b,
 input#img-4:checked ~ .carousel-dots label#img-dot-4,
 input#img-5:checked ~ .carousel-dots label#img-dot-5,
-input#img-5:checked ~ .carousel-dots label#img-dot-6,
-input#img-6:checked ~ .carousel-dots label#img-dot-7 {
+input#img-6:checked ~ .carousel-dots label#img-dot-6,
+input#img-7:checked ~ .carousel-dots label#img-dot-7 {
 	opacity: 1;
 }
 
